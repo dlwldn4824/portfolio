@@ -41,9 +41,9 @@
 - 주: **Web · 풀스택** · 부: 동아리 · 실사용 제품
 - 레포: [`dlwldn4824/band`](https://github.com/dlwldn4824/band), [`dlwldn4824/Band-Info`](https://github.com/dlwldn4824/Band-Info)
 
-### [pintime](pintime.md) — 캘린더 기반 일정 조율 데모
-- 주: **Web · 프론트**
-- 레포: [`dlwldn4824/pintime`](https://github.com/dlwldn4824/pintime)
+### [pintime](pintime.md) — AI 일정 에이전트 · 🔄 진행 중 · 배포 목표
+- 주: **AI × 서비스 · Agent** · 부: Web · 배포
+- 레포: [`dlwldn4824/pintime`](https://github.com/dlwldn4824/pintime) · 라이브: [pintime.vercel.app](https://pintime.vercel.app)
 
 ### [cam-kit](cam-kit.md) — 창업캡스톤 · 캠퍼스 소분 공동구매
 - 주: **창업 · 서비스 기획** · 부: Web · 풀스택, 전공 과제

@@ -272,12 +272,12 @@ def build():
     c.drawString(rx + 2.5 * mm, ry - 2 * mm, "PinTime  ·  AI 일정 조율 에이전트")
     c.setFillColor(MUTED)
     c.setFont(FONT, 6.5)
-    c.drawRightString(W - MARGIN - 2 * mm, ry - 2 * mm, "배포 · React/TS")
+    c.drawRightString(W - MARGIN - 2 * mm, ry - 2 * mm, "진행 중 · 배포 목표")
     ty = ry - 6 * mm
     for b in [
         "문제: When2Meet식 ‘방마다 표 다시 채우기’로 조율·확정·캘린더가 끊김.",
         "해결: 규칙 파이프라인으로 대화→가능시간 연결→충돌 제거→확정 시 같은 저장소에 등록.",
-        "검증: 동작하는 프론트 프로토타입 배포(pintime.vercel.app). LLM 없는 규칙·휴리스틱으로도 워크플로를 닫음.",
+        "현황: 프로토타입 라이브(pintime.vercel.app). 서비스 배포·LLM/실캘린더 확장 진행 중.",
     ]:
         ty = bullet(c, b, rx + 1.5 * mm, ty, size=7.4, max_w=RIGHT_W - 3 * mm)
     ry = ry - ph - 2.5 * mm
@@ -381,10 +381,10 @@ def build():
     )
 
     y = project_block(
-        "PinTime  —  AI 일정 조율 (요약)",
+        "PinTime  —  AI 일정 조율 (진행 중 · 배포 목표)",
         "pintime.vercel.app · github.com/dlwldn4824/pintime",
         [
-            "AI 코딩·규칙 파이프라인으로 0→배포까지 스스로 검증. LLM 없이도 ‘확정=캘린더’ 제약을 제품에 녹임.",
+            "0→프로토타입 배포까지 검증. 서비스화·배포 확장 진행 중(확정=캘린더 핸드오프).",
             "온디바이스/로컬 규칙 + 휴리스틱 점수 — 클라우드 LLM 의존 없이 프로토타입을 운영 가능한 형태로.",
             "Additional: 답변등기(KB, 승인·봉인 결정론) · iM Ready · WJVOX → github.com/dlwldn4824/portfolio",
         ],

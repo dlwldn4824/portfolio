@@ -287,12 +287,12 @@ def build():
     c.drawString(rx + 2.2 * mm, ry - 1.8 * mm, "대화→제약→후보→사람 확정→캘린더")
     c.setFillColor(MUTED)
     c.setFont(FONT, 6.2)
-    c.drawRightString(W - MARGIN - 1.5 * mm, ry - 1.8 * mm, "pintime · vercel.app")
+    c.drawRightString(W - MARGIN - 1.5 * mm, ry - 1.8 * mm, "진행 중 · vercel.app")
     ty = ry - 5.5 * mm
     for b in [
         "문제: When2Meet식 방마다 재입력·확정 후 캘린더 재등록으로 흐름이 끊김.",
         "구조: 규칙 파이프라인(하드/소프트 제약) · 휴리스틱 추천 · 승인 핸드오프.",
-        "범위: 동작하는 프론트 배포. LLM·실캘린더는 후속 — 워크플로를 먼저 닫음.",
+        "현황: 프로토타입 라이브. 서비스 배포 목표로 LLM·실캘린더·서버 확장 중.",
         "지표 관점: 추천 수 < 확정까지 대화·충돌 재발·도구 전달 성공.",
     ]:
         ty = bullet(c, b, rx + 1.2 * mm, ty, size=7.0, max_w=RIGHT_W - 2.5 * mm)
@@ -380,8 +380,8 @@ def build():
     )
 
     y = project_block(
-        "PinTime — 핸드오프 없는 일정 워크플로",
-        "pintime · pintime.vercel.app",
+        "PinTime — 핸드오프 없는 일정 워크플로 (진행 중)",
+        "배포 목표 · pintime.vercel.app",
         [
             "하드/소프트 제약 분리 · 확정 전 충돌 검증 · 같은 저장소 캘린더 등록.",
             "사전질문 연결: 회의 예약 에이전트 = 캘린더·참석자·충돌·확정 도구 + 사람 승인.",
