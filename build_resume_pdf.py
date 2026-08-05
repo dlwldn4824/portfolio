@@ -196,15 +196,19 @@ def build():
     ly = bullet(c, "A+: ML·DB·텍마·HCI·자료구조·UX", lx, ly, size=7.5, max_w=LEFT_W)
     ly -= 3 * mm
 
-    ly = section(c, "Research Interest", lx, ly, LEFT_W)
+    ly = section(c, "Research Interest · 진행 중", lx, ly, LEFT_W)
     c.setFillColor(ORANGE)
     c.setFont(FONT_B, 8)
-    c.drawString(lx, ly, "Neuro-Symbolic AI · XAI")
+    c.drawString(lx, ly, "NeSy-SMP 논문 재현")
+    ly -= 3.2 * mm
+    c.setFillColor(MUTED)
+    c.setFont(FONT, 6.5)
+    c.drawString(lx, ly, "github.com/dlwldn4824/NeSy-SMP-repro")
     ly -= 3.5 * mm
     ly = draw_text(
         c,
-        "논문·구조를 학습하는 Current Study 단계. LLM 결과를 규칙·검증·외부 지식으로 보완하는 패턴을 PinTime·HITL 서비스에 적용하는 방법을 탐색 중. (독자 NeSy 연구 구현 아님)",
-        lx, ly, size=7.3, max_w=LEFT_W, leading=9.8, color=MUTED,
+        "Neuro-symbolic sepsis mortality 공개 코드 재현·감사(Phase-3 gate/grounding). 독자 NeSy 신규 연구 아님 — 논문↔코드 간극을 배우며 룰·지식을 LLM/AI에 붙이는 패턴 탐색 중.",
+        lx, ly, size=7.2, max_w=LEFT_W, leading=9.6, color=MUTED,
     )
 
     # Left column bottom fill — Daangn fit note

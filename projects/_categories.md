@@ -20,6 +20,11 @@
 - 주: **연구 · 문제검증** · 부: AI · NLP, 전공 연계
 - 레포: [`dlwldn4824/HOPE_organization`](https://github.com/dlwldn4824/HOPE_organization)
 
+### [research-nesy-smp](research-nesy-smp.md) — NeSy-SMP 논문 재현 · 🔄 진행 중
+- 주: **연구 · 논문 재현** · 부: Neuro-Symbolic · XAI
+- 레포: [`dlwldn4824/NeSy-SMP-repro`](https://github.com/dlwldn4824/NeSy-SMP-repro)
+- Upstream: [FabrizioDeSantis/NeSy-SMP](https://github.com/FabrizioDeSantis/NeSy-SMP)
+
 ## 2. AI × 서비스 (금융 · 신뢰 · 보안)
 
 ### [answer-registry](answer-registry.md) — KB AI Challenge · 답변 승인·봉인·발송
