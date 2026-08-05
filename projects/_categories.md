@@ -49,6 +49,10 @@
 - 주: **창업 · 서비스 기획** · 부: Web · 풀스택, 전공 과제
 - 레포: [`bhw119/Cam-Kit`](https://github.com/bhw119/Cam-Kit)
 
+### [piching-machine](piching-machine.md) — LG Aimers 9기 · 투구 제구 확률 · 🔄 진행 중
+- 주: **교육 · 챌린지 · ML** · 부: Tabular · Feature Engineering
+- 레포: [`dlwldn4824/piching_machine`](https://github.com/dlwldn4824/piching_machine)
+
 ## 4. 전공 과제 · 수업 산출물
 
 ### [research-ml-dessert](research-ml-dessert.md) — 기계학습 · 서울시 상권 디저트 소비 예측

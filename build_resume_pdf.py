@@ -410,7 +410,7 @@ def build():
     ty -= 3.6 * mm
     ty = draw_text(
         c,
-        "LG AIMERS 9기 · 대학혁신 서포터즈 · HOPE·환불원정대 팀장 · 노을 운영진(예약 웹) · KT 랜선나눔캠퍼스 중3 AI·ML · 에듀탑·학원 조교·과외",
+        "LG AIMERS 9기(piching_machine·진행중) · 대학혁신 서포터즈 · HOPE·환불원정대 팀장 · 노을 운영진 · KT 랜선나눔 AI·ML · 조교·과외",
         x + 2.5 * mm, ty, size=7.3, max_w=full_w - 5 * mm, leading=9.3,
     )
     y = y - 28 * mm

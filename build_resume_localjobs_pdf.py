@@ -179,19 +179,33 @@ def build():
         ly = bullet(c, s, lx, ly, size=7.0, max_w=LEFT_W)
     ly -= 1.5 * mm
 
-    ly = section(c, "연구 · 진행 중", lx, ly, LEFT_W)
+    ly = section(c, "진행 중", lx, ly, LEFT_W)
     c.setFillColor(ORANGE)
-    c.setFont(FONT_B, 7.5)
-    c.drawString(lx, ly, "NeSy-SMP 논문 재현")
-    ly -= 2.8 * mm
+    c.setFont(FONT_B, 7.4)
+    c.drawString(lx, ly, "LG Aimers · piching_machine")
+    ly -= 2.6 * mm
     c.setFillColor(MUTED)
-    c.setFont(FONT, 6.2)
-    c.drawString(lx, ly, "github.com/dlwldn4824/NeSy-SMP-repro")
-    ly -= 3.0 * mm
+    c.setFont(FONT, 6.1)
+    c.drawString(lx, ly, "github.com/dlwldn4824/piching_machine")
+    ly -= 2.8 * mm
     ly = draw_text(
         c,
-        "Neuro-symbolic sepsis mortality 재현·감사. 독자 연구 아님 — 논문↔코드 간극·룰/지식 grounding Current Study.",
-        lx, ly, size=6.8, max_w=LEFT_W, leading=8.8, color=MUTED,
+        "Phase2 투구 제구 확률. E20(Form/Intent/Exec/Clutch)+CatBoost · holdout BSS≈644.",
+        lx, ly, size=6.6, max_w=LEFT_W, leading=8.5, color=MUTED,
+    )
+    ly -= 1.2 * mm
+    c.setFillColor(ORANGE)
+    c.setFont(FONT_B, 7.4)
+    c.drawString(lx, ly, "NeSy-SMP 논문 재현")
+    ly -= 2.6 * mm
+    c.setFillColor(MUTED)
+    c.setFont(FONT, 6.1)
+    c.drawString(lx, ly, "github.com/dlwldn4824/NeSy-SMP-repro")
+    ly -= 2.8 * mm
+    ly = draw_text(
+        c,
+        "Neuro-symbolic sepsis mortality 재현·감사. 독자 연구 아님 — 논문↔코드 grounding Current Study.",
+        lx, ly, size=6.6, max_w=LEFT_W, leading=8.5, color=MUTED,
     )
     ly -= 1.5 * mm
 
