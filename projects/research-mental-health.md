@@ -8,6 +8,13 @@
 
 > GitHub: https://github.com/dlwldn4824/TM-MultiLayer-MentalHealth
 
+## 한눈에 (문제 → AI → 수치)
+| | |
+|--|--|
+| **문제** | 단일 LLM이 맥락·위험·생성·안전을 한 번에 처리 → 실패 지점 비가시 |
+| **AI** | Multi-Agent + RAG · 조건부 Safety Revision (되돌릴 수 없는 응답만 Gate) |
+| **수치** | Three-Agent Safety **4.83** · Empathy **4.31** · Phase2 score **69.40** · Revision **~6%** |
+
 ## 왜 이 문제를 선택했는가
 정신건강은 고위험 도메인이다. 단일 LLM이 맥락·위험·생성·안전을 한 덩어리로 처리하면 **실패 지점을 찾지 못하고**, 최종 점수만 보는 평가는 **왜 틀렸는지**를 설명하지 못한다. 역할을 분리한 구조가 reliability·safety를 실제로 올리는지 검증하고자 했다.
 

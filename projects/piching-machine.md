@@ -9,6 +9,13 @@
 
 > GitHub: https://github.com/dlwldn4824/piching_machine
 
+## 한눈에 (문제 → AI → 수치)
+| | |
+|--|--|
+| **문제** | 제구 성공을 감이 아니라 확률·피처로 설명·예측 |
+| **AI** | Form/Intent/Exec/Clutch + CatBoost 실험 루프 |
+| **수치** | holdout BSS E20 **≈644.04** (E2 CatBoost 633.80 대비↑) · 진행 중 |
+
 ## 왜 이 문제를 선택했는가
 LG Aimers 9기 Phase2 과제. Trackman 등 투구 데이터를 바탕으로 **제구 성공 확률**을 예측하며, 피처 가설 → 실험 → holdout 지표로 모델·피처를 고르는 루프를 연습합니다.
 
