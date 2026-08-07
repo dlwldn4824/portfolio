@@ -19,6 +19,22 @@
 
 ---
 
+## Tech Stacks
+
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+</p>
+
+---
+
 ## Academic
 
 ### GPA 4.32 / 4.50 · Major GPA 4.50 / 4.50
@@ -89,25 +105,14 @@
 | [NeSy-SMP-repro](https://github.com/dlwldn4824/NeSy-SMP-repro) | LLM만으로 해결하기 어려운 지식 제약·설명성과 논문↔코드 간극 | Neuro-Symbolic LTN·KG 논문 재현 및 감사 | Phase-3 gate / grounding 문서화 · 재현 진행 중 |
 | [piching_machine](https://github.com/dlwldn4824/piching_machine) | 투구 제구 성공을 감이 아니라 확률과 피처로 설명하고 싶음 | Form / Intent / Exec / Clutch 피처 + CatBoost 실험 | Holdout BSS E20 ≈ 644.04, 실험 진행 중 |
 | [band](https://github.com/dlwldn4824/band) · [Band-Info](https://github.com/dlwldn4824/Band-Info) | 공연 예약·체크인·셋리스트가 여러 채널로 분산 | 운영 워크플로를 하나의 웹 제품으로 통합 | 320+ commits, 동아리 실사용 |
-
-<details>
-<summary>More selected · TEMI / HCI / 전공</summary>
-
-| 프로젝트 | 문제 | 핵심 접근 | 결과 |
-| --- | --- | --- | --- |
 | [mobile_robot_temi](https://github.com/dlwldn4824/mobile_robot_temi) | 로봇 이동·촬영 명령의 즉시성과 UX 단절 | Socket.IO 실시간 명령 + Claude API | 18존 내비게이션, 현장 연동 |
 | [TemiTellMe](https://github.com/dlwldn4824/TemiTellMe) · [HCI-UX](https://github.com/dlwldn4824/HCI-UX) | 전시장 길찾기·대기·콘텐츠 경험이 분리 | WebView↔Temi SDK 브리지 + 이벤트 추천 | 현장 설문 24명, 8개 줄서기 프로그램 |
 | [기계학습](https://github.com/dlwldn4824/machine_learning) | 디저트 소비를 감이 아닌 상권 데이터로 예측 | scikit-learn 기반 모델 비교·평가 지표 선정 | 실데이터 비교 실험 · A+ |
 | [opensource_final](https://github.com/dlwldn4824/opensource_final) | 셋리스트를 감으로 구성하는 비효율 | 552곡 기반 규칙 추천 · FastAPI · Docker | 552곡 코퍼스, API 형태 구현 |
 
-</details>
-
 ---
 
 ## Other Projects & Contributions
-
-<details>
-<summary>† contributor · 전공 실습 펼치기</summary>
 
 | 프로젝트 | 분야 | 기여 |
 | --- | --- | --- |
@@ -121,8 +126,6 @@
 | [9th_web](https://github.com/dlwldn4824/9th_web) | Web | UMC Web 실습 |
 
 `†` 타 계정 또는 조직 레포 contributor
-
-</details>
 
 ---
 
