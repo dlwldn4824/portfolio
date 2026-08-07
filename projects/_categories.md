@@ -4,7 +4,7 @@
 
 ## 1. AI · ML · CV · 음성
 
-### [hope](hope.md) — 아동 조음 AI 보조 · 보조공학·HUSS AI 장려상
+### [hope](hope.md) — 또박또박 · 소원 H.O.P.E 창의보조공학·HUSS AI 장려상
 - 주: **AI · 보조공학** · 부: 해커톤 · 경진, Web · 프론트
 - 레포: [`dlwldn4824/HOPE_organization`](https://github.com/dlwldn4824/HOPE_organization)
 
@@ -85,7 +85,7 @@
 
 ## 5. 해커톤 · 경진 (수상 연결)
 
-### [hope](hope.md) — 아동 조음 AI 보조 · 보조공학·HUSS AI 장려상
+### [hope](hope.md) — 또박또박 · 소원 H.O.P.E 창의보조공학·HUSS AI 장려상
 - 주: **AI · 보조공학** · 부: 해커톤 · 경진, Web · 프론트
 - 레포: [`dlwldn4824/HOPE_organization`](https://github.com/dlwldn4824/HOPE_organization)
 

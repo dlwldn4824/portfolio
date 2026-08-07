@@ -225,7 +225,7 @@ def build():
     ly = section(c, "수상 (GitHub)", lx, ly, LEFT_W)
     for s in [
         "대상·파이썬SW 심화우수 · Smart Icheon · smart_icheon_care",
-        "장려×2 · HOPE · HOPE_organization",
+        "장려×2 · 또박또박 · HOPE_organization",
     ]:
         ly = bullet(c, s, lx, ly, size=6.9, max_w=LEFT_W)
 
@@ -392,8 +392,8 @@ def build():
     )
 
     y = project_block(
-        "HOPE (또박또박) — 평가 구조를 먼저 고침",
-        "HOPE_organization · 장려×2 · 팀장",
+        "또박또박 (HOPE) — 평가 구조를 먼저 고침",
+        "또박또박 · 장려×2 · 팀장",
         [
             "가정↔치료실 피드백 공백 → 게임 연습 + 음소 피드백 + 보호자·치료사 기록.",
             "STT 보정 한계 → Wav2Vec2-CTC·g2pK·정렬·PCC/PER로 ‘어떻게 발음했는지’ 보존.",

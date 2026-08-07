@@ -401,7 +401,7 @@ def build():
     ty -= 3.6 * mm
     ty = draw_text(
         c,
-        "2026 파이썬 SW 심화 우수·컨소시엄 대상(Smart Icheon) · 보조공학·HUSS AI 장려(HOPE 팀장) · 2025 매치업 우수 · 마이크로모듈 SS · Dean's List · 창업동아리 장려 · 성적우수 장학 3회",
+        "2026 파이썬 SW 심화 우수·컨소시엄 대상(Smart Icheon) · 소원 H.O.P.E 창의보조공학·HUSS AI 장려(또박또박 팀장) · 2025 매치업 우수 · 마이크로모듈 SS · Dean's List · 창업동아리 장려 · 성적우수 장학 3회",
         x + 2.5 * mm, ty, size=7.3, max_w=full_w - 5 * mm, leading=9.3,
     )
     c.setFont(FONT_B, 8)
