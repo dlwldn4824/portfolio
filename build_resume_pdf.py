@@ -296,7 +296,7 @@ def build():
         for b in [
             "문제: 불법 현수막을 픽셀만으로 단정할 라벨이 없고, 전수 순찰은 스케일이 안 됨.",
             "해결: YOLO 탐지→Risk→OCR→공무원 CONFIRMED. 되돌릴 수 없는 확정은 사람에게.",
-            "검증: test F1 0.591 · mAP50 0.439 · 1,892장. 지능형 로봇 컨소시엄 대상.",
+            "검증: test F1 0.591 · mAP50 0.439 · 1,892장. 파이썬 SW 심화 우수상 · 컨소시엄 대상.",
         ]:
             ty = bullet(c, b, rx + 1.5 * mm, ty, size=7.4, max_w=RIGHT_W - 3 * mm)
         ry = ry - ph2 - 2 * mm
@@ -350,7 +350,7 @@ def build():
         [
             "사고: ‘AI가 불법이라고 말하면 끝’이 아니라, 라벨 부재·행정 책임이라는 본질을 HITL로 풀어냄.",
             "구조: YOLO11s+ByteTrack → 공공데이터 Risk → 클릭 OCR → 공무원 CONFIRMED · VWorld GIS.",
-            "지표: val mAP50 0.510 · test F1 0.591 / mAP50 0.439 · ~15.7 FPS · 지능형 로봇 컨소시엄 대상.",
+            "지표: val mAP50 0.510 · test F1 0.591 / mAP50 0.439 · ~15.7 FPS · 파이썬 SW 심화 우수 · 컨소시엄 대상.",
             "연결: 앱·대시보드·CV API를 한 업무 흐름으로 — 제품팀이 쓸 수 있는 ‘기반’에 가깝게 설계.",
         ],
         y,
@@ -401,7 +401,7 @@ def build():
     ty -= 3.6 * mm
     ty = draw_text(
         c,
-        "2026 보조공학·HUSS AI 장려(HOPE 팀장) · 지능형 로봇 컨소시엄 대상(Smart Icheon) · 2025 매치업 우수 · 마이크로모듈 SS · Dean's List · 창업동아리 장려 · 성적우수 장학 3회",
+        "2026 파이썬 SW 심화 우수·컨소시엄 대상(Smart Icheon) · 보조공학·HUSS AI 장려(HOPE 팀장) · 2025 매치업 우수 · 마이크로모듈 SS · Dean's List · 창업동아리 장려 · 성적우수 장학 3회",
         x + 2.5 * mm, ty, size=7.3, max_w=full_w - 5 * mm, leading=9.3,
     )
     c.setFont(FONT_B, 8)

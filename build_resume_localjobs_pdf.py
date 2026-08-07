@@ -224,7 +224,7 @@ def build():
 
     ly = section(c, "수상 (GitHub)", lx, ly, LEFT_W)
     for s in [
-        "대상 · Smart Icheon · smart_icheon_care",
+        "대상·파이썬SW 심화우수 · Smart Icheon · smart_icheon_care",
         "장려×2 · HOPE · HOPE_organization",
     ]:
         ly = bullet(c, s, lx, ly, size=6.9, max_w=LEFT_W)
@@ -306,12 +306,12 @@ def build():
         c.drawString(rx + 2.2 * mm, ry - 1.8 * mm, "Smart Icheon Care · HITL 업무 파이프라인")
         c.setFillColor(MUTED)
         c.setFont(FONT, 6.2)
-        c.drawRightString(W - MARGIN - 1.5 * mm, ry - 1.8 * mm, "smart_icheon_care · 대상")
+        c.drawRightString(W - MARGIN - 1.5 * mm, ry - 1.8 * mm, "심화우수·대상")
         ty = ry - 5.5 * mm
         for b in [
             "YOLO11s→ByteTrack→Risk/Priority→OCR→공무원 CONFIRMED (탐지≠확정).",
             "A/B: all 0.4913 > filtered 0.4811 → 최종 F1 0.591 · mAP50 0.439.",
-            "AI 출력을 ‘어디·무엇·왜 먼저’ 업무 단위로 변환 · 컨소시엄 대상.",
+            "AI 출력을 ‘어디·무엇·왜 먼저’ 업무 단위로 · 파이썬 SW 심화 우수 · 컨소시엄 대상.",
         ]:
             ty = bullet(c, b, rx + 1.2 * mm, ty, size=7.0, max_w=RIGHT_W - 2.5 * mm)
 
@@ -369,11 +369,11 @@ def build():
 
     y = project_block(
         "Smart Icheon Care — 탐지를 행정 업무로",
-        "smart_icheon_care · 대상",
+        "smart_icheon_care · 심화우수·대상",
         [
             "현장: 461km²·인력 격차 → 전수 순찰 대신 Risk 선별·사람 확정.",
             "파이프라인: 탐지·추적·GIS·공공데이터·OCR·상태머신(CONFIRMED).",
-            "지표: all>filtered 선정 · test F1 0.591 · mAP50 0.439 · ~15.7 FPS(MPS).",
+            "지표: all>filtered 선정 · test F1 0.591 · mAP50 0.439 · 파이썬 SW 심화 우수상 · 컨소시엄 대상.",
             "링크: github.com/dlwldn4824/smart_icheon_care",
         ],
         y,
