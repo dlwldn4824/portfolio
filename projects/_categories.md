@@ -8,7 +8,7 @@
 - 주: **AI · 보조공학** · 부: 해커톤 · 경진, Web · 프론트
 - 레포: [`dlwldn4824/HOPE_organization`](https://github.com/dlwldn4824/HOPE_organization)
 
-### [smart-icheon-care](smart-icheon-care.md) — 지자체 CCTV·공공데이터 · 지능형 로봇 컨소시엄 대상
+### [smart-icheon-care](smart-icheon-care.md) — 지자체 CCTV·공공데이터 · 파이썬 SW 심화 우수 · 컨소시엄 대상
 - 주: **AI · CV · 도시비전** · 부: 해커톤 · 경진, Web · 풀스택
 - 레포: [`dlwldn4824/smart_icheon_care`](https://github.com/dlwldn4824/smart_icheon_care)
 
@@ -89,7 +89,7 @@
 - 주: **AI · 보조공학** · 부: 해커톤 · 경진, Web · 프론트
 - 레포: [`dlwldn4824/HOPE_organization`](https://github.com/dlwldn4824/HOPE_organization)
 
-### [smart-icheon-care](smart-icheon-care.md) — 지자체 CCTV·공공데이터 · 지능형 로봇 컨소시엄 대상
+### [smart-icheon-care](smart-icheon-care.md) — 지자체 CCTV·공공데이터 · 파이썬 SW 심화 우수 · 컨소시엄 대상
 - 주: **AI · CV · 도시비전** · 부: 해커톤 · 경진, Web · 풀스택
 - 레포: [`dlwldn4824/smart_icheon_care`](https://github.com/dlwldn4824/smart_icheon_care)
 
