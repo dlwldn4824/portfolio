@@ -27,6 +27,10 @@
 
 ## 2. AI × 서비스 (금융 · 신뢰 · 보안)
 
+### [vibecheck](vibecheck.md) — 코덱스 커뮤니티 해커톤 본선 · 정책 기반 보안 검증
+- 주: **AI × 신뢰 · 보안** · 부: 해커톤 · 경진, Web · 풀스택
+- 레포: [`dlwldn4824/view_check`](https://github.com/dlwldn4824/view_check) · Live: [view-check-three.vercel.app](https://view-check-three.vercel.app/)
+
 ### [answer-registry](answer-registry.md) — KB AI Challenge · 답변 승인·봉인·발송
 - 주: **AI × 신뢰 · 금융** · 부: 해커톤 · 경진, Web · 풀스택
 - 레포: [`dlwldn4824/kb_AI_challenge`](https://github.com/dlwldn4824/kb_AI_challenge)

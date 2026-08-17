@@ -76,6 +76,7 @@
 
 | 시기 | 수상 · 장학 | 관련 프로젝트 / 기관 |
 | --- | --- | --- |
+| 2026.08 | [코덱스 커뮤니티 해커톤 본선](https://github.com/dlwldn4824/view_check) | [VibeCheck](https://github.com/dlwldn4824/view_check) |
 | 2026.08.07 | [파이썬 SW 활용 경진대회 심화 우수상](https://github.com/dlwldn4824/smart_icheon_care) | [Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care) |
 | 2026.07.22 | [소원 H.O.P.E 창의보조공학 경진대회 장려상](https://github.com/dlwldn4824/HOPE_organization) | [또박또박](https://github.com/dlwldn4824/HOPE_organization) |
 | 2026.07 | [HUSS AI 경진대회 장려상](https://github.com/dlwldn4824/HOPE_organization) | [또박또박](https://github.com/dlwldn4824/HOPE_organization) |
@@ -97,6 +98,7 @@
 
 | 프로젝트 | 문제 | 핵심 접근 | 결과 |
 | --- | --- | --- | --- |
+| [VibeCheck](https://github.com/dlwldn4824/view_check) · [Live](https://view-check-three.vercel.app/) | 바이브 코딩으로 배포는 빨라졌지만, 정책 기준 보안 검증과 수정 증명이 따라오지 않음 | 정책 → 실제 HTTP 검증 → 규칙 판정 → 사람 승인 → Codex 수정 → 동일 공격 Replay | 코덱스 커뮤니티 해커톤 본선 · [시연](https://youtu.be/eyd36YSsI-U) |
 | [Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care) | 넓은 지역을 소수 인력이 전수 순찰하기 어려움 | YOLO11s + ByteTrack 탐지 → Risk 우선순위 → HITL 행정 확정 | F1 0.591, mAP50 0.439, 약 15.7 FPS · 지능형 로봇 컨소시엄 대상 · 파이썬 SW 심화 우수상 |
 | [또박또박 / HOPE](https://github.com/dlwldn4824/HOPE_organization) · [서비스 레포](https://github.com/dlwldn4824/ttobak-ttobak) | 치료실 밖 가정에서 객관적인 발음 피드백이 부족 | Wav2Vec2-CTC · 음소 정렬 · PCC/PER 기반 발음 평가 + 게임 UX | 소원 H.O.P.E 장려상 · HUSS AI 장려상 · 팀장 |
 | [PinTime](https://github.com/dlwldn4824/pintime) · [Live](https://pintime.vercel.app/) | 톡방마다 가능 시간을 다시 입력하고, 확정 후 캘린더에 또 등록 | 자연어 제약 파싱 → 후보 생성 → 사람 승인 → 일정 저장 | 라이브 프로토타입 배포, 서비스화 진행 |
@@ -230,4 +232,4 @@ AI 경진대회라고 모든 기능을 AI에 맡길 필요는 없습니다. **AI
 - Visual Technology / Information Convergence, Kwangwoon University · GPA **4.32 / 4.50** · Major GPA **4.50 / 4.50**
 - Not a “naturally gifted” student — rebuilds papers into 50–60 slide decks until explainable
 - Loop: **problem → validate → build → measure → reflect**; place AI only where it fits
-- Highlights: [Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care) · [또박또박](https://github.com/dlwldn4824/HOPE_organization) · [PinTime](https://github.com/dlwldn4824/pintime) · [답변등기](https://github.com/dlwldn4824/kb_AI_challenge)
+- Highlights: [VibeCheck](https://github.com/dlwldn4824/view_check) · [Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care) · [또박또박](https://github.com/dlwldn4824/HOPE_organization) · [PinTime](https://github.com/dlwldn4824/pintime) · [답변등기](https://github.com/dlwldn4824/kb_AI_challenge)
