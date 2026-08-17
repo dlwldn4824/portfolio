@@ -8,7 +8,7 @@
 📬 [dlwldn4824@naver.com](mailto:dlwldn4824@naver.com) · [GitHub](https://github.com/dlwldn4824) · [성장 기록 @due_study_archive](https://www.instagram.com/due_study_archive/)
 
 <p align="center">
-  <img src="./assets/project-journey.svg" alt="프로젝트 여정" width="920">
+  <img src="./assets/project-journey.svg" alt="학기별 프로젝트 · 수상 여정" width="1180">
 </p>
 
 ---
