@@ -7,6 +7,14 @@
 
 📬 [dlwldn4824@naver.com](mailto:dlwldn4824@naver.com) · [GitHub](https://github.com/dlwldn4824) · [성장 기록 @due_study_archive](https://www.instagram.com/due_study_archive/)
 
+<p align="center">
+  <img src="./assets/gpa-trend.svg" alt="학기별 GPA 추이" width="760">
+</p>
+
+| 학기 | 2024-1 | 2024-2 | 2025-1 | 2025-2 | 2026-1 | 누적 |
+| --- | --- | --- | --- | --- | --- | --- |
+| GPA | 3.83 | 4.50 | 4.41 | 4.41 | 4.50 | **4.32** |
+
 ---
 
 ## About Me
@@ -37,17 +45,15 @@
 
 ## Academic
 
-### GPA 4.32 / 4.50 · Major GPA 4.50 / 4.50
-
 | 구분 | 내용 |
 | --- | --- |
-| 학교 | 광운대학교 |
-| 학부 | 정보융합학부 |
-| 전공 | 비주얼테크놀로지전공 |
+| 학교 | 광운대학교 · 정보융합학부 · 비주얼테크놀로지전공 |
 | 재학 | 2024.03 ~ |
 | 전체 평점 | 4.32 / 4.50 |
 | 전공 평점 | 4.50 / 4.50 |
-| 주요 전공 성과 | 기계학습 A+ 등 |
+| 주요 전공 | 기계학습 A+ 등 |
+
+학기별 추이는 위 그래프 참고.
 
 ---
 
