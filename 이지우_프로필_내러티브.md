@@ -8,12 +8,8 @@
 📬 [dlwldn4824@naver.com](mailto:dlwldn4824@naver.com) · [GitHub](https://github.com/dlwldn4824) · [성장 기록 @due_study_archive](https://www.instagram.com/due_study_archive/)
 
 <p align="center">
-  <img src="./assets/gpa-trend.svg" alt="학기별 GPA 추이" width="760">
+  <img src="./assets/project-journey.svg" alt="프로젝트 여정" width="920">
 </p>
-
-| 학기 | 2024-1 | 2024-2 | 2025-1 | 2025-2 | 2026-1 | 누적 |
-| --- | --- | --- | --- | --- | --- | --- |
-| GPA | 3.83 | 4.50 | 4.41 | 4.41 | 4.50 | **4.32** |
 
 ---
 
@@ -52,8 +48,6 @@
 | 전체 평점 | 4.32 / 4.50 |
 | 전공 평점 | 4.50 / 4.50 |
 | 주요 전공 | 기계학습 A+ 등 |
-
-학기별 추이는 위 그래프 참고.
 
 ---
 
